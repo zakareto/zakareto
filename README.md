@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/zakareto"><img src = "./assets/ln-logo.png" width = 100> </a>
+<a href="https://github.com/zakareto"><img src = "https://www.seekpng.com/png/full/243-2431968_leave-a-comment-kirby-25th-anniversary-kirby.png" width = 100> </a>
 </p>
 <h1 align=center><font size = 5>Hi there 👋! I'm Rafael Raygosa<br> Welcome to my profile!</font></h1>
 <br>
@@ -30,7 +30,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <div align="center">
 <a href="https://github.com/zakareto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?usernamezakareto&theme=jolly&count_private=true&hide=css,blade" alt="zakareto's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakareto&theme=jolly&count_private=true&hide=css,blade" alt="zakareto's GitHub Stats" />
 
 <br>
 <br>
